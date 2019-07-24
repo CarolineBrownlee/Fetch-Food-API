@@ -1,0 +1,18 @@
+.foodList {
+    display: flex;
+    flex-direction: row;
+}
+
+.section {
+    border: solid rosybrown;
+    border-width: thin;
+    padding: 5px;
+    margin-right: 5px;
+    display: flex;
+    flex-direction: column;
+}
+
+.name {
+    font-weight: 700;
+    text-align: center;
+}
